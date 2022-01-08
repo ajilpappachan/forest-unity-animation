@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Water_Mat
-  m_Shader: {fileID: -6465566751694194690, guid: 38a36b3dc9a2d42468546f824432dbff, type: 3}
+  m_Name: VolumetricMaterialT
+  m_Shader: {fileID: -6465566751694194690, guid: 1b480a0df8811be438023001459ff883, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,12 +19,20 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _MainNormal:
-        m_Texture: {fileID: 2800000, guid: c21511cdc86c86847bdae740c8b071da, type: 3}
+    - _SampleTexture2D_A75DF6F_Texture:
+        m_Texture: {fileID: 2800000, guid: 1a8058b2dcfd5174a93dfdac017cf2d8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SecondNormal:
-        m_Texture: {fileID: 2800000, guid: 9f04018992f98ef4997b6883c48cc0f8, type: 3}
+    - _SampleTexture2D_DB29F771_Texture:
+        m_Texture: {fileID: 2800000, guid: 1a8058b2dcfd5174a93dfdac017cf2d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_b8e2b5c3e00c0a8899618af96df9284b_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9dfe398cb214b974ca771043e3c16d37, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_c6f65b9506e82b898d9ede5fb27de09f_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9dfe398cb214b974ca771043e3c16d37, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -40,12 +48,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Depth: 0.3
-    - _Displacement: 3
-    - _NormalStrength: 1
-    - _Smoothness: 0.843
-    - _Strength: 0.065
+    - Boolean_52C16ADA: 1
+    - Vector1_C436030E: 4.96
+    - Vector1_D9BD7578: 6.3
     m_Colors:
-    - _DeepWaterColor: {r: 0.27033645, g: 0.30885717, b: 0.7075472, a: 0.74509805}
-    - _ShallowWaterColor: {r: 0.31639373, g: 0.69473374, b: 0.8490566, a: 0.84313726}
+    - Color_686BCB55: {r: 0.8867924, g: 0.8298173, b: 0.55633676, a: 0}
   m_BuildTextureStacks: []
