@@ -824,7 +824,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 0.6944642, g: 0.84920084, b: 0.9622642, a: 1}
-  m_Intensity: 0.45
+  m_Intensity: 0.1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -1308,6 +1308,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1459235424}
     m_Modifications:
+    - target: {fileID: 1550778519906523609, guid: 2d13a5077802e9149bebc622372465e7, type: 3}
+      propertyPath: m_BoundingSphereOverride.y
+      value: 2.3510647e-38
+      objectReference: {fileID: 0}
     - target: {fileID: 4439188704032866553, guid: 2d13a5077802e9149bebc622372465e7, type: 3}
       propertyPath: m_Name
       value: Fireflies
