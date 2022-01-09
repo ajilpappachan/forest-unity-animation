@@ -1,4 +1,21 @@
 Models:
 
+Lighthouse
 https://sketchfab.com/3d-models/fectar-lighthouse-6fd7ceda588348dcb0562d1e5b2f1ade
+Owl
+https://sketchfab.com/3d-models/eastern-screech-owl-1b34de1b8208495abb37b4b629c1f8a3
 
+Audio:
+
+Forest Night
+https://freesound.org/people/felix.blume/sounds/466955/
+Footsteps
+https://freesound.org/people/Cinetony/sounds/556791/
+Owl Hoot
+https://freesound.org/people/Breviceps/sounds/465697/
+Monster Roar
+https://freesound.org/people/jacobalcook/sounds/195568/
+Breaking Branch 1
+https://freesound.org/people/ceberation/sounds/235508/
+Breaking Branch 2
+https://freesound.org/people/Bini_trns/sounds/353536/
