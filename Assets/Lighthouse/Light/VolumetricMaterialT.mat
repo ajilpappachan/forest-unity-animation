@@ -49,8 +49,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Boolean_52C16ADA: 1
-    - Vector1_C436030E: 4.96
-    - Vector1_D9BD7578: 6.3
+    - Vector1_C436030E: 2.4
+    - Vector1_D9BD7578: 7.97
     m_Colors:
-    - Color_686BCB55: {r: 0.8867924, g: 0.8298173, b: 0.55633676, a: 0}
+    - Color_686BCB55: {r: 0.8018868, g: 0.7716983, b: 0.62411, a: 1}
   m_BuildTextureStacks: []
