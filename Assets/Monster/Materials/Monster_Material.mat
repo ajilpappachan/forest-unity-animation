@@ -90,6 +90,7 @@ Material:
     m_Floats:
     - Vector1_6eafe72e7fc649fdbc250a8d9a967876: 0
     - _AlphaClip: 0
+    - _AlphaScale: 49.99915
     - _Blend: 0
     - _BumpScale: 1
     - _ClearCoatMask: 0
@@ -103,6 +104,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _Lerp: 0.9999823
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
